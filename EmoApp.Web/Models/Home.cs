@@ -9,7 +9,7 @@ namespace EmoApp.Web.Models
     {
         public int Id { get; set; }
         public string WelcomeMessage { get; set; }
-        public string FooterMessage { get; set; } = "Footer by Yordi Agustin Paredes";
+        public string FooterMessage { get; set; } = "See in www.yordiap.com";
     }
 
 }
